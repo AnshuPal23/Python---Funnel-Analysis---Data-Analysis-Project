@@ -229,6 +229,7 @@ funnel-drop-analysis/
 
 1. Clone this repo
    ```bash
+   https://github.com/AnshuPal23/Python---Funnel-Analysis---Data-Analysis-Project.git
    ```
 2. Install required libraries
    ```bash
