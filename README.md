@@ -229,7 +229,6 @@ funnel-drop-analysis/
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/analytics-ak/funnel-drop-analysis.git
    ```
 2. Install required libraries
    ```bash
